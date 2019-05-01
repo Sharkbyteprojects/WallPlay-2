@@ -11,5 +11,11 @@
   </head>
   <body>
     <div id="gameContainer" style="width: 960px; height: 600px; margin: auto"></div>
+    <script>
+    var swin = 'serviceWorker' in navigator;
+    console.log("SERVICE WORKER IN NAV: " + swin);
+    if('serviceWorker' in navigator){
+      navigator.serviceWorker.register('./sw.js');
+    }</script>
   </body>
 </html>
