@@ -10,7 +10,7 @@ public class livehandler : MonoBehaviour
     public GameObject h3;
     public GameObject h4;
     public GameObject h5;
-    public int lh = 0;
+    int lh = 0;
 
     void Start()
     {
@@ -23,6 +23,7 @@ public class livehandler : MonoBehaviour
     }
     void Update()
     {
+        Debug.Log("Live: " + lh);
         if(lh == 4){
             h5.SetActive(false);
         }

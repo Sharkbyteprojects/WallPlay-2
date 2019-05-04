@@ -1,5 +1,7 @@
 fileFormatVersion: 2
 guid: e8bc61e335b083645ac12235d7e75224
+labels:
+- Ui
 TextureImporter:
   fileIDToRecycleName: {}
   externalObjects: {}

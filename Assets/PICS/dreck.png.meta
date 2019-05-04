@@ -1,5 +1,9 @@
 fileFormatVersion: 2
 guid: b84717c2411a456419974c53add511fe
+labels:
+- Level
+- Sky
+- Ui
 TextureImporter:
   fileIDToRecycleName: {}
   externalObjects: {}

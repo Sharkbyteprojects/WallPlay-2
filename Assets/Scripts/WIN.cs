@@ -5,9 +5,9 @@ using UnityEngine;
 public class WIN : MonoBehaviour
 {
     public GameObject destroyi;
-    public float speed = 3.0f;
-    public float speedup = 3.0f;
-    public bool winhandler = false;
+    public float speed = 0.09f;
+    public float speedup = 0.1f;
+    bool winhandler = false;
     void Start()
     {
         winhandler = false;

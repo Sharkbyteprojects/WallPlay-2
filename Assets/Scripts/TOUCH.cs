@@ -14,4 +14,8 @@ public class TOUCH : MonoBehaviour
             todestroy.SetActive(activateing);
         }
     }
+    public void bcont()
+    {
+        todestroy.SetActive(activateing);
+    }
 }

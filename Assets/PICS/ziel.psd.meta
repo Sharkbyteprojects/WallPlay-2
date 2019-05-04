@@ -1,5 +1,7 @@
 fileFormatVersion: 2
 guid: 82816d91a3a2c014398f2292f46a758a
+labels:
+- Level
 TextureImporter:
   fileIDToRecycleName: {}
   externalObjects: {}

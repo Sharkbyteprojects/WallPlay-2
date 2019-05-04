@@ -1,5 +1,11 @@
 fileFormatVersion: 2
 guid: a6942a744daf93f428ad3bea5b05be24
+labels:
+- Effect
+- Eva
+- Ground
+- Level
+- Terrain
 TextureImporter:
   fileIDToRecycleName: {}
   externalObjects: {}

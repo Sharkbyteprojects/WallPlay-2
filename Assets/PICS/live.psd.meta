@@ -1,5 +1,9 @@
 fileFormatVersion: 2
 guid: 453af73e7c8353649805225ee1e7ec24
+labels:
+- Character
+- Level
+- Live
 TextureImporter:
   fileIDToRecycleName: {}
   externalObjects: {}

@@ -1,5 +1,10 @@
 fileFormatVersion: 2
 guid: cebeba339ba0aa14fb01ab9368fd1606
+labels:
+- Character
+- Effect
+- Level
+- Live
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
